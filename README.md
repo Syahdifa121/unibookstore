@@ -13,14 +13,14 @@ Aplikasi manajemen toko buku sederhana menggunakan React.js dan MySQL.
 - Node.js
 - MySQL
 - npm
-- 
+
 ## Instalasi Dependisi
-npm install
-npm install react-router-dom
-npm install tailwindcss
-npm install sweetalert2
-npm install express
-npm install mysql2
-npm install cors
-npm install dotenv #
-npm install nodemon -D 
+- npm install
+- npm install react-router-dom
+- npm install tailwindcss
+- npm install sweetalert2
+- npm install express
+- npm install mysql2
+- npm install cors
+- npm install dotenv #
+- npm install nodemon -D 
